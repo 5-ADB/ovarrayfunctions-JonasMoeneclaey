@@ -4,3 +4,7 @@
 
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
 
+namenlijst.reverse()
+namenlijst.push("henk")
+namenlijst.reverse()
+console.log(namenlijst);

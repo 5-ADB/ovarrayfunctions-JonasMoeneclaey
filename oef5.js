@@ -5,6 +5,6 @@
  */
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
 
-namenlijst.every(namen => namen.split() == "P")
+namenlijst.filter(value => value == )
 
 console.log(namenlijst);

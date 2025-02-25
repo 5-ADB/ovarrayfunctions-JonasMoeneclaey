@@ -10,4 +10,4 @@ const resultaten = [
     {vak: "nederlands", punt: 8, totaal:10}
 ]
 
-resultaten.forEach
+resultaten.forEach()
