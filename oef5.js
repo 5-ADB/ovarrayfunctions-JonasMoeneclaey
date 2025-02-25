@@ -4,3 +4,7 @@
  *
  */
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+
+namenlijst.every(namen => namen.split() == "P")
+
+console.log(namenlijst);
